@@ -1,0 +1,1 @@
+web: gunicorn muhammad_second_version.wsgi --log-file -
